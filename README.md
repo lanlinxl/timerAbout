@@ -1,5 +1,5 @@
 # timerAbout
-Some problems with timers are solved
+定时器循环引用分析及完美解决方案
 
 - iOS 定时器循环引用分析及完美解决方案 
 - GCD定时器的封装
